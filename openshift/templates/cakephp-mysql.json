@@ -342,7 +342,7 @@
                 "volumeMounts": [
                   {
                     "name": "data",
-                    "mountPath": "/var/lib/mysql/data"
+                    "mountPath": "/home/jose/mysql/data"
                   }
                 ],
                 "readinessProbe": {
